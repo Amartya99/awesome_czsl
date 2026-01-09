@@ -1,6 +1,6 @@
 # Awesome-Compositional-Zero-Shot
 
-![CZSL Diagram](CZSL_figure.PNG)
+![CZSL Diagram](figure.png)
 *Figure 1: The CZSL Split. The model learns from the **Training Set** (left), where it sees examples like 'Peeled Apple' and 'Green Apple'. It must then generalize this knowledge to the **Test Set** (right) to identify a 'Peeled Banana'—a composition it has never encountered before.*
 
 Papers and codes about Compositional Zero Shot Learning(CZSL) for computer vision are present on this page. Besides, the commonly-used datasets for CZSL are also introduced. 
