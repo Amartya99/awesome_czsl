@@ -1,8 +1,5 @@
 # Awesome-Compositional-Zero-Shot
 
-![CZSL Diagram](figure.png)
-*Figure 1: The CZSL Split. The model learns from the **Training Set** (left), where it sees examples like 'Peeled Apple' and 'Green Apple'. It must then generalize this knowledge to the **Test Set** (right) to identify a 'Peeled Banana'—a composition it has never encountered before.*
-
 Papers and codes about Compositional Zero Shot Learning(CZSL) for computer vision are present on this page. Besides, the commonly-used datasets for CZSL are also introduced. 
 
 ## Looking for Contributors!
@@ -28,15 +25,15 @@ Thanks!
 | Adaptive Fusion Learning for Compositional Zero-Shot Recognition | TMM 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10814709) | - |
 | Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning | TMM 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10855509) | - |
 | Concept-Aware Graph Convolutional Network for Compositional Zero-Shot Learning | TNNLS 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10856526) | - |
-| Contextual Interaction via Primitive-based Adversarial Training for Compositional Zero-shot Learning
- | ACM TOMM 2025 | [PDF](https://dl.acm.org/doi/full/10.1145/3712596) | - |
+| Contextual Interaction via Primitive-based Adversarial Training for Compositional Zero-shot Learning | ACM TOMM 2025 | [PDF](https://dl.acm.org/doi/full/10.1145/3712596) | - |
+
+
 
 ### 2024
 | Title                                                                                      |   Venue   |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
 | Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination | TPAMI 2024 | [PDF](https://ieeexplore.ieee.org/abstract/document/10737702) | [CODE](https://github.com/LanchJL/IMAX) |
-| Knowledge Guided Transformer Network for Compositional Zero-Shot Learning
- | ACM TOMM 2024 | [PDF](https://dl.acm.org/doi/full/10.1145/3687129) | - |
+| Knowledge Guided Transformer Network for Compositional Zero-Shot Learning | ACM TOMM 2024 | [PDF](https://dl.acm.org/doi/full/10.1145/3687129) | - |
 | Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning | TPAMI 2024 | [PDF](https://ieeexplore.ieee.org/abstract/document/10737100) | [CODE](https://github.com/PRIS-CV/Disentangling-before-Composing) |
 | Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning | TPAMI 2024 | [PDF](https://ieeexplore.ieee.org/document/10274865?denied=) | - |
 | C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition | ECCV 2024 | [PDF](https://arxiv.org/abs/2407.06113) | [CODE](https://github.com/RongchangLi/ZSCAR_C2C) |
